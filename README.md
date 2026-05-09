@@ -1,6 +1,6 @@
 # Simple Web Scraper MVP
 
-A clean, no-frills Python web scraper that extracts text content and links from any public webpage.
+A clean Python web scraper that extracts text content and links from public webpages.
 
 ## Setup
 
